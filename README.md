@@ -52,7 +52,7 @@
 
 #### [https://store-frontend.fly.dev/](https://store-frontend.fly.dev/)
 
-伺服器沒有收到請求，幾分鐘後後將會停止運作，開啟網站時需等待伺服器重新運作
+若伺服器沒有收到請求，幾分鐘後將會停止運作，開啟網站時需等待伺服器重新運作
 
 > 資料庫建立於 [db4free](https://www.db4free.net/)
 
