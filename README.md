@@ -48,9 +48,9 @@
 
 ## 3. 部署
 
-#### [https://store-frontend.fly.dev/](https://store-frontend.fly.dev/)
-
 > 部署於 [fly.io](https://fly.io/) 平台
+
+#### [https://store-frontend.fly.dev/](https://store-frontend.fly.dev/)
 
 伺服器沒有收到請求，幾分鐘後後將會停止運作，開啟網站時需等待伺服器重新運作
 
@@ -58,7 +58,7 @@
 
 請求速度可能較慢，如「商品一覽」需稍作等待後才能顯示出來、商品加入購物車時需要幾秒才會顯示「已加入購物車」
 
-#### 測試帳號
+> 測試帳號
 
 帳號：user@gmail.com
 
